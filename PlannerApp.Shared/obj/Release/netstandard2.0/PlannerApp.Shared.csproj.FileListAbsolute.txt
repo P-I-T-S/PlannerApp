@@ -1,0 +1,9 @@
+D:\Code\PlannerApp\PlannerApp.Shared\bin\Release\netstandard2.0\PlannerApp.Shared.deps.json
+D:\Code\PlannerApp\PlannerApp.Shared\bin\Release\netstandard2.0\PlannerApp.Shared.dll
+D:\Code\PlannerApp\PlannerApp.Shared\bin\Release\netstandard2.0\PlannerApp.Shared.pdb
+D:\Code\PlannerApp\PlannerApp.Shared\obj\Release\netstandard2.0\PlannerApp.Shared.csprojAssemblyReference.cache
+D:\Code\PlannerApp\PlannerApp.Shared\obj\Release\netstandard2.0\PlannerApp.Shared.AssemblyInfoInputs.cache
+D:\Code\PlannerApp\PlannerApp.Shared\obj\Release\netstandard2.0\PlannerApp.Shared.AssemblyInfo.cs
+D:\Code\PlannerApp\PlannerApp.Shared\obj\Release\netstandard2.0\PlannerApp.Shared.csproj.CoreCompileInputs.cache
+D:\Code\PlannerApp\PlannerApp.Shared\obj\Release\netstandard2.0\PlannerApp.Shared.dll
+D:\Code\PlannerApp\PlannerApp.Shared\obj\Release\netstandard2.0\PlannerApp.Shared.pdb

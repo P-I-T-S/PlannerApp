@@ -1,0 +1,259 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7JWNVz0-Dx6CjuIiqs-zeGmCpfmlWSvTC4XtlejArZA=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\AKSoftware.WebApi.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/AKSoftware.WebApi.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7_FtaZd2xSysaMLC59XhYdtkNMZ15ha0lk73dxPdT5w=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazored.LocalStorage.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazored.LocalStorage.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\lY0mu9F6yjIPmaxr8g3puMPBms3MMgb7yzZtxGo0mHM=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\WPIj8Gyxkrhh0t3JEuPil_7kKl_3DJojCglPZT3SsD0=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Blazor.HttpClient.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Blazor.HttpClient.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Z-m-UrU_UstblOIcn1wJ1LlAgorSWVT5qukJJPxPQjs=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tgoLHPM3B7G0qPZ6sBW3VunoTvOHGDMD129p2AJCUEI=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EkH5J18b4G_EWkTLroivpofNWYLbXles4wFQoVpPjPU=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\9TB-zGn6NTXJu-sgJZs5xM7aRqYe89dt7EgfMOFBqrE=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LX2lwYC3AK9acsrWjvLLrVEv5gRpP_ZzfVGkk0FY0Vc=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mXoBUenSZGL9Gh2PdJupQuDMz1-Dl_Mj6tT7PMk9Tz4=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\WrqkYD6j1T5zrV4VG5Y38JTbWM6uOfFckSGWIrM36Rk=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.CSharp.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QGfHwFMWwNarKRvhCiNRFdWSRAczhDQD1juzqDDDLw4=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\uOfhW9w_1vkyRTKdIUQoN0NRk2K6bvyFPBGDRV1-9iI=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5XbaEAVF4WPVoAEST7ci-eRyzhny3FrjCbST9J0gcdI=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_nmSZMAm_pzzcNGFaPJsI-40gLOEKJaylqbEY_fZZ3U=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\pQXJX5FUmy5mGNI_jt7sp-0TddPywrXccdPMXCG8R6o=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\thPmGioMmGkk5HturBZmUPl3KANzM9wKGi8IocoZ4OI=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QmbjhPkTMcViPyukv0bY_KJp2UKyvUfXGsP6GBP3W4M=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\O0CYH1pVNn_DkgwnKfDe8_BK2T-HM3LG4CNrinwfh_I=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\T6TipPVUuH3_4L03A4Kx28lhBZvwr7o9-LxGj27cSa4=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7U5Gm6LiXELvCBk0N-88vW8WgSp6fsJHL7yCBOHaQcY=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ncvHGHzE_HkD0dU9sM40GJ8wLUYWRbdfyHbkbWvwwBo=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Mono.Security.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\VEl15PuAnEpy0Y0KJvf84eyzerQBcHcExsH0zHcgNhU=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\JzoyklxG7tngy9CpsKe-YQKAcHSGx-ibHnspePXUnnI=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\netstandard.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/netstandard.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\gkIipvi93hhq6PE_WvoKU82xCfBcfl2PTHNjD3enxt4=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Newtonsoft.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Newtonsoft.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\XCIFRllJBb_YZtTmrlL6MHj-1n2f1EwgArKINTiyJ_M=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\PlannerApp.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/PlannerApp.Client.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BEK-Y88Lm5S96Rnbkuv1IeAkQQ-VUkVQWJhFS1lEoGM=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\PlannerApp.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/PlannerApp.Shared.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\OXVqcTczSjsCh28fe96c3HbSu6GGSk2unLftneT47rM=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Radzen.Blazor.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Radzen.Blazor.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cgrQPaoyY2tGW-nptN6d6I3aVrAwXR40Kse1XlvDs6c=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\a5y6gyD8yj22ncB8PKc_0GNvGLV_oMfMTgx7TpTOuO0=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\g4iDwOjX2TW6hWvx9cofhzyACiDwh2pXcRoXVRSCnGA=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Data.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kuIO9ckADSSC27U_M2yMnVSjo6RuIu_It1SU5Kv88KQ=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CvnVtj1DL80GdxJlsdCgzhgq3viEGYG8YxZJTEvT588=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Linq.Dynamic.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Linq.Dynamic.Core.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qUe5-kq-B9bCvhApqucUjHKtD4RLiGcDzbs-F9LcOGQ=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Iq-X9L6fpdEinA55xCJM7VCZuA8OTyOgt6N1T7RcxwM=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YhTu3iQOmErinhB5MulJq42GoKMfamG9NEjg8Y8UZ08=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Numerics.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-uyq47aC68oP6vD8PibjUm5a4S_sq7WaQNk0ZAIIrY0=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Dxdd_aQ_A5x7RdW4mG9XnyQJzkRVSIS9BOlXumMgneI=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\iLuEQ_ZSmr59zKEVKq0raGUlGEdtbs-3Yts4d_bzn0M=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PCgVjHpHWrR-mjlaJ97KuZMVn3qwEI3118aWQhBQf7U=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\J-DPpbbN5CAG9E7ucIkKrAxEAlS5ELSqtqbBm4xpxsQ=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7cR_Wfedig-1CUPxvMkDYqMDdXW65Vfj7N27WTn-3aU=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.Linq.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\BLr2Y_KozwBLF0DU5D3j6Y3zk34NXF36QTdpJicxTeE=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Tewr.Blazor.FileReader.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Tewr.Blazor.FileReader.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\j4yybrrcN9kvv60kdG0-OXtFFA8KUWPZQLBpsYIaKC0=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\COLEplusTEN\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\COLEplusTEN\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\COLEplusTEN\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\COLEplusTEN\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-IJ-LEYAnm8GZkNApsu1yn-l1CEw1J7RFoaw6mOcDV4=.hash",
+      "Source": "D:\\Code\\PlannerApp\\PlannerApp.Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
+    }
+  ]
+}
